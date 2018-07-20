@@ -1,11 +1,11 @@
-Peercoin Proof-Of-Stake (POS) Calculator
+Meconcash Proof-Of-Stake (POS) Calculator
 ===
 
 http://poscalculator.peercointalk.org/
 
-JavaScript-based Proof-Of-Stake (POS) reward calculator for Peercoin (PPC), also known as PPCoin.
+JavaScript-based Proof-Of-Stake (POS) reward calculator for Meconcash (MCH), also known as Meconcash.
 
-Created by FuzzyBear of [Peercointalk](http://peercointalk.org/).
+Created by FuzzyBear
 
 This is still in the development and testing phase.
 
