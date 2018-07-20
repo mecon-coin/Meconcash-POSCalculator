@@ -1,8 +1,8 @@
 var translations = {
     "en": {
-        "title": "Peercoin POS Calculator",
+        "title": "meconcash POS Calculator",
         "header_prefix": "Languages: ",
-        "header_title": "Peercoin Proof-Of-Stake (POS) Calculator v0.0.1",
+        "header_title": "meconcash Proof-Of-Stake (POS) Calculator v0.0.1",
         "intro": "Currently it is very early days... so only basic functions but you can:",
         "desc1": "Enter the amount of coins you sent in a transaction, the number of days that have passed and the POS difficulty to get a readout.",
         "desc2": "The probability of minting a block reaches its maximum after 90 days and doesn't increase after that.",
@@ -20,13 +20,13 @@ var translations = {
         "prob_prob": "Probability",
         "reward_block": "Reward",
         "footer_peer4commit": "Donate to the development of this project",
-        "footer_peercointalk": "Donate to Peercointalk projects",
+        "footer_meconcashtalk": "Donate to meconcashtalk projects",
         "footer_github": "Contribute to this project on GitHub"
     },
     "de": {
-        "title": "Peercoin POS Rechner",
+        "title": "meconcash POS Rechner",
         "header_prefix": "Sprachen: ",
-        "header_title": "Peercoin Nachweis-der-Beteiligung (POS) Rechner v0.0.1",
+        "header_title": "meconcash Nachweis-der-Beteiligung (POS) Rechner v0.0.1",
         "intro": "Derzeit ist es sehr frühen Tage... also nur Grundfunktionen, aber Sie können:",
         "desc1": "Geben Sie die Menge der Münzen, die Sie in einer Transaktion, die Anzahl der Tage, die vergangen sind und die POS-Schwierigkeit geschickt, eine Anzeige zu erhalten.",
         "desc2": "Die Wahrscheinlichkeit, dass die Prägung einer Block ihr Maximum erreicht nach 90 Tagen und danach nicht erhöhen.",
@@ -44,13 +44,13 @@ var translations = {
         "prob_prob": "Wahrscheinlichkeit",
         "reward_block": "Belohnung",
         "footer_peer4commit": "Spenden Sie an die Entwicklung des Projekts",
-        "footer_peercointalk": "Spenden für Projekte Peercointalk",
+        "footer_meconcashtalk": "Spenden für Projekte meconcashtalk",
         "footer_github": "Zu diesem Projekt auf GitHub"
     },
     "es": {
-        "title": "Peercoin POS Calculadora",
+        "title": "meconcash POS Calculadora",
         "header_prefix": "Idiomas: ",
-        "header_title": "Peercoin Prueba-De-Juego (POS) Calculadora v0.0.1",
+        "header_title": "meconcash Prueba-De-Juego (POS) Calculadora v0.0.1",
         "intro": "Actualmente es muy primeros días... así que sólo las funciones básicas, pero usted puede:",
         "desc1": "Anote la cantidad de monedas que envió en una transacción, el número de días que han pasado y la dificultad de POS para obtener una lectura.",
         "desc2": "La probabilidad de un bloque de moneda alcanza su máximo después de 90 días y no aumenta después de eso.",
@@ -68,13 +68,13 @@ var translations = {
         "prob_prob": "Probabilidad",
         "reward_block": "Recompensa",
         "footer_peer4commit": "Donar al desarrollo de este proyecto",
-        "footer_peercointalk": "Donar a proyectos Peercointalk",
+        "footer_meconcashtalk": "Donar a proyectos meconcashtalk",
         "footer_github": "Contribuir a este proyecto en GitHub"
     },
     "fr": {
-        "title": "Peercoin Calculateur POS",
+        "title": "meconcash Calculateur POS",
         "header_prefix": "Langues: ",
-        "header_title": "Calculateur Preuve-de-Part (POS) Peercoin v0.0.1",
+        "header_title": "Calculateur Preuve-de-Part (POS) meconcash v0.0.1",
         "intro": "N'en est qu'à ses débuts... seulement des fonctions basiques, mais vous pouvez&nbsp;:",
         "desc1": "Entrer le montant reçu dans une transaction, le nombre de jours écoulés depuis et la difficulté POS pour avoir un résultat.",
         "desc2": "La probabilité de générer un bloc POS atteint son maximum après 90 jours et n'augmente plus après ça.",
@@ -92,13 +92,13 @@ var translations = {
         "prob_prob": "Probabilité",
         "reward_block": "Récompense",
         "footer_peer4commit": "Donner pour développer ce projet",
-        "footer_peercointalk": "Donner aux projets Peercointalk",
+        "footer_meconcashtalk": "Donner aux projets meconcashtalk",
         "footer_github": "Contribuer à ce projet sur GitHub"
     },
     "nl": {
-        "title": "Peercoin POS Calculator",
+        "title": "meconcash POS Calculator",
         "header_prefix": "Talen: ",
-        "header_title": "Peercoin Bewijs van Aandeel (POS) Calculator v0.0.1",
+        "header_title": "meconcash Bewijs van Aandeel (POS) Calculator v0.0.1",
         "intro": "Het zijn nog de begindagen... dus alleen basis functies, maar u kan:",
         "desc1": "Voer het aantal munten in dat u zond in een transactie, het aantal dagen dat is gepasseerd en de POS moeilijkheid om een resultaat te krijgen.",
         "desc2": "De waarschijnlijkheid on een blok te minten bereikt zijn maximum na 90 dagen en neemt daarna niet meer toe.",
@@ -116,13 +116,13 @@ var translations = {
         "prob_prob": "Waarschijnlijkheid",
         "reward_block": "Beloning",
         "footer_peer4commit": "Doneer aan de ontwikkeling van dit project",
-        "footer_peercointalk": "Doneer aan Peercointalk projecten",
+        "footer_meconcashtalk": "Doneer aan meconcashtalk projecten",
         "footer_github": "Draag bij aan dit project op GitHub"
     },
     "ru": {
-        "title": "Peercoin POS Калькулятор",
+        "title": "meconcash POS Калькулятор",
         "header_prefix": "Языки: ",
-        "header_title": "Peercoin доказательство Кола (POS) Калькулятор v0.0.1",
+        "header_title": "meconcash доказательство Кола (POS) Калькулятор v0.0.1",
         "intro": "В настоящее время это очень рано дней..., так что только основные функции, но вы можете:",
         "desc1": "Введите количество монет вы послали в сделке, количество дней, прошедших и трудность POS получить отсчет.",
         "desc2": "Вероятность о чеканке блок достигает своего максимума после 90 дней и не увеличивается после этого.",
@@ -140,7 +140,7 @@ var translations = {
         "prob_prob": "вероятность",
         "reward_block": "Вознаграждение",
         "footer_peer4commit": "Пожертвовать на развитие проекта",
-        "footer_peercointalk": "Пожертвовать на развитие этого проекта",
+        "footer_meconcashtalk": "Пожертвовать на развитие этого проекта",
         "footer_github": "Вклад этого проекта на GitHub"
     },
     "zh-cn": {
@@ -164,13 +164,13 @@ var translations = {
         "prob_prob": "可能性",
         "reward_block": "收益",
         "footer_peer4commit": "捐赠这个项目",
-        "footer_peercointalk": "捐赠Peercointalk的项目",
+        "footer_meconcashtalk": "捐赠meconcashtalk的项目",
         "footer_github": "在GitHub上完善这个项目吧"
     },
     "cs": {
-        "title": "Peercoin POS kalkulačka",
+        "title": "meconcash POS kalkulačka",
         "header_prefix": "Jazyky: ",
-        "header_title": "Peercoin potvrzení vlastnictvím=Proof-of-stake (POS) kalkulátor v0.0.1",
+        "header_title": "meconcash potvrzení vlastnictvím=Proof-of-stake (POS) kalkulátor v0.0.1",
         "intro": "Aktuálně jsou zde pouze jednoduché funkce ale můžete:",
         "desc1": "Zadej počet coinů, jež je v počítané transakci, počet dní které uběhly od obdržení transakce a POS obtížnost.",
         "desc2": "Pravděpodobnost mintování bloku dosáhne svého maxima po 90 dnech a poté se nezvyšuje.",
@@ -194,13 +194,13 @@ var translations = {
         "reward_min": "Minimální odměna (31)",
         "reward_min_total": "Minimální součet (31)",
         "footer_peer4commit": "Daruj vývoji tohoto projetu",
-        "footer_peercointalk": "Daruj projektům PeerCointalk",
+        "footer_meconcashtalk": "Daruj projektům meconcashtalk",
         "footer_github": "Pomož tomuto projektu na GitHubu"
     },
 	"no": {
-        "title": "Peercoin POS Kalkulator",
+        "title": "meconcash POS Kalkulator",
         "header_prefix": "Språk: ",
-        "header_title": "Peercoin Proof-Of-Stake (POS) Kalkulator v0.0.1",
+        "header_title": "meconcash Proof-Of-Stake (POS) Kalkulator v0.0.1",
         "intro": "Vi er tidlig i utviklingen... foreløpig er funksjonene simple, men du kan:",
         "desc1": "Legge inn antall mynter du har sent i en transaksjon, antall dager som har gått siden, og POS vanskelighetsgraden for å få en estimasjon.",
         "desc2": "Sannsynligheten for å \"minte\" en blokk når sin maksverdi etter 90 dager og slutter da å øke.",
@@ -225,7 +225,7 @@ var translations = {
         "reward_min": "Minimumsbelønning (31)",
         "reward_min_total": "Minimum total (31)",
         "footer_peer4commit": "Doner for å støtte utviklingen av dette prosjektet",
-        "footer_peercointalk": "Doner til Peercointalk prosjekter",
+        "footer_meconcashtalk": "Doner til meconcashtalk prosjekter",
         "footer_github": "Delta i dette prosjektet på GitHub"
     }
 };
