@@ -1,6 +1,6 @@
 Meconcash Proof-Of-Stake (POS) Calculator
 ===
-
+https://s3.ap-northeast-2.amazonaws.com/meconcash-poscalculator/index.html
 
 JavaScript-based Proof-Of-Stake (POS) reward calculator for Meconcash (MCH), also known as Meconcash.
 
